@@ -1,6 +1,10 @@
 body {
     font-family: Arial;
-    padding-top: 50px;
+}
+
+form {
+    width: 30%;
+    margin-left: 20px;
 }
 
 footer {
